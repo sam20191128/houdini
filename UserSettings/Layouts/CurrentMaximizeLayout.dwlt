@@ -27,7 +27,7 @@ MonoBehaviour:
   m_MinSize: {x: 500, y: 100}
   m_MaxSize: {x: 40480, y: 8096}
   vertical: 0
-  controlID: 4009
+  controlID: 6290
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -400,9 +400,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 10.912783, y: -20.675179, z: -35.34546}
+    m_Target: {x: 0.5113373, y: 17.788307, z: -0.7808533}
     speed: 2
-    m_Value: {x: 10.912783, y: -20.675179, z: -35.34546}
+    m_Value: {x: 0.5113373, y: 17.788307, z: -0.7808533}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -449,13 +449,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.48292997, y: 0.005509425, z: -0.0030480095, w: 0.87565196}
+    m_Target: {x: 0.27684742, y: -0.0011742403, z: 0.00028340143, w: 0.9609539}
     speed: 2
-    m_Value: {x: 0.48554814, y: 0.0055001806, z: -0.0030644832, w: 0.87418735}
+    m_Value: {x: 0.27827767, y: -0.001173768, z: 0.0002851516, w: 0.9605}
   m_Size:
-    m_Target: 317.10245
+    m_Target: 376.60556
     speed: 2
-    m_Value: 332.04443
+    m_Value: 376.6037
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -569,21 +569,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f0f8ffff
+      m_ExpandedIDs: 34fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Global Volume
-        m_OriginalName: Global Volume
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 27408
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 7}
       m_SearchString: 
@@ -667,14 +667,14 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: H:\jiaocheng\houdini
+  m_LastProjectPath: D:\git\houdini
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 3a480000
     m_LastClickedID: 18490
-    m_ExpandedIDs: ffffffff000000007c6b00007e6b0000806b0000846b0000
+    m_ExpandedIDs: ffffffff00000000b4680000b6680000b8680000ba680000206b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -702,7 +702,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000007c6b00007e6b0000806b0000826b0000846b0000
+    m_ExpandedIDs: ffffffff00000000b4680000b6680000b8680000ba680000206b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
